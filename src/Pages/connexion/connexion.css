@@ -1,0 +1,4 @@
+.clip-input{
+    clip-path: polygon(6% 0, 95% 0, 100% 34%, 100% 68%, 95% 100%, 5% 99%, 0 68%, 0 34%);
+    border:1px solid red;
+}
